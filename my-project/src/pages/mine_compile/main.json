@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "职前公社",
+  "usingComponents": {
+    "i-input":"../../../static/iview/input/index",
+    "i-panel": "../../../static/iview/panel/index"
+
+
+
+
+  }
+}

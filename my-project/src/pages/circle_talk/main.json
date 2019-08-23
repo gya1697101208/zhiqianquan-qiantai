@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#3185ff",
+  "config": {
+    "enablePullDownRefresh": true
+  },
+  "usingComponents": {
+    "i-checkbox": "../../../static/iview/checkbox/index"
+}
+
+}
